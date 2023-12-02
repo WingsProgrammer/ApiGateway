@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "edrBwbvDX0PqMmY5kJmaQVXEvL7QdfBT94OOi5wOdlE=",
+  "Source": "MS.Services.ApiGateway",
+  "BasePath": "_content/MS.Services.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

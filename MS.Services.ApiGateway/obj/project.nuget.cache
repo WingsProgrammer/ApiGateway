@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "dgSpecHash": "8KPRADIgTorSFO6NiEplBE1Mxl284ZdpG/gIyEwgn0R2NiYbAdZ59ivl1VkRpUNwDiCHBx00Cc3a4lGCZEko3w==",
+  "success": false,
+  "projectFilePath": "E:\\github\\backupcode-master\\ms.services.apigateway\\MS.Services.ApiGateway\\MS.Services.ApiGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akbar\\.nuget\\packages\\duende.bff\\1.2.3\\duende.bff.1.2.3.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\duende.bff.yarp\\1.2.3\\duende.bff.yarp.1.2.3.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\identitymodel.aspnetcore\\4.2.0\\identitymodel.aspnetcore.4.2.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.0\\microsoft.aspnetcore.authentication.openidconnect.6.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.0.0\\microsoft.extensions.configuration.binder.2.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.0.0\\microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.8\\microsoft.extensions.hosting.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.0.0\\microsoft.extensions.options.configurationextensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.16.1\\microsoft.visualstudio.azure.containers.tools.targets.1.16.1.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\msftframework.core\\7.0.0\\msftframework.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.aspnetcore\\6.0.0-dev-00265\\serilog.aspnetcore.6.0.0-dev-00265.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.extensions.hosting\\5.0.0-dev-00093\\serilog.extensions.hosting.5.0.0-dev-00093.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.extensions.logging\\3.1.0\\serilog.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.settings.configuration\\3.3.0\\serilog.settings.configuration.3.3.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.sinks.debug\\2.0.0\\serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\serilog.sinks.spectreconsole\\0.1.1\\serilog.sinks.spectreconsole.0.1.1.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\spectre.console\\0.38.0\\spectre.console.0.38.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\wcwidth\\0.2.0\\wcwidth.0.2.0.nupkg.sha512",
+    "C:\\Users\\akbar\\.nuget\\packages\\yarp.reverseproxy\\1.1.1\\yarp.reverseproxy.1.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.wingstech.net/repository/morpho/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MS.Services.ApiGateway depends on MsftFramework.Core (>= 1.0.1) but MsftFramework.Core 1.0.1 was not found. An approximate best match of MsftFramework.Core 7.0.0 was resolved.",
+      "libraryId": "MsftFramework.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package MsftFramework.Core 7.0.0 is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Package MsftFramework.Core 7.0.0 supports: net7.0 (.NETCoreApp,Version=v7.0)",
+      "libraryId": "MsftFramework.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
