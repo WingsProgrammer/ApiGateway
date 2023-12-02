@@ -1,4 +1,4 @@
-
+<img src="apigateway.png" width="800" height="600">
 
 API Gateway plays a vital role in developing, publishing, managing, supervising and securing APIs of any size. It acts as a gateway for applications to access data, business logic, or functionality from backend services. To comprehend API Gateway in its entirety, it is essential to grasp its key aspects.
 
